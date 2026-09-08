@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 220" role="img" aria-label="Social Media Landing Page">
+  <rect width="1120" height="220" rx="16" fill="#0B1628"/>
+  <rect width="1120" height="220" rx="16" fill="none" stroke="#06B6D4" stroke-opacity="0.45" stroke-width="2"/>
+  <rect x="0" y="28" width="6" height="164" rx="3" fill="#06B6D4"/>
+  <text x="36" y="52" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" letter-spacing="2.8" fill="#06B6D4">PROJECT</text>
+  <text x="36" y="86" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="28" font-weight="700" fill="#F8FAFC">Social Media Landing Page</text>
+  
+  <text x="36" y="112" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" fill="#F8FAFC">Responsive landing page for a fictional social media product, designed with HTML5 and</text>
+<text x="36" y="134" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" fill="#F8FAFC">modern CSS.</text>
+  <text x="36" y="196" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" fill="#06B6D4">HTML · CSS</text>
+</svg>

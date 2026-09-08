@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 140" role="img" aria-label="Thanks for visiting">
+  <rect width="1280" height="140" rx="16" fill="#07111F"/>
+  <rect x="160" y="28" width="960" height="1.5" fill="#1E293B"/>
+  <rect x="560" y="26" width="160" height="5" rx="2.5" fill="#06B6D4"/>
+  <text x="640" y="74" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#F8FAFC">Thanks for visiting my profile.</text>
+  <text x="640" y="106" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" fill="#94A3B8">Let's build something meaningful.</text>
+</svg>

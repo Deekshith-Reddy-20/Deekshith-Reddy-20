@@ -1,0 +1,70 @@
+{
+  "username": "Deekshith-Reddy-20",
+  "exclude": ["Deekshith-Reddy-20"],
+  "featured": [
+    {
+      "repo": "cue-ai",
+      "title": "Cue AI",
+      "description": "AI-powered web and desktop workspace with a Next.js dashboard, Electron companion overlay, resume tools, and admin views.",
+      "tech": ["TypeScript", "React", "Next.js", "Electron"],
+      "status": "active"
+    },
+    {
+      "repo": "savuor",
+      "title": "Savuor",
+      "description": "Standalone Windows companion overlay with a FastAPI backend, Groq-powered responses, speech transcription, and document parsing.",
+      "tech": ["Python", "TypeScript", "Electron", "FastAPI"],
+      "status": "active"
+    },
+    {
+      "repo": "portfolio",
+      "title": "Portfolio",
+      "description": "Experimental first-person WebGL portfolio in progress, built as a React and TypeScript scene with scroll-driven camera work.",
+      "tech": ["TypeScript", "React", "WebGL"],
+      "status": "development"
+    },
+    {
+      "repo": "Ai-Ats-Score-Resume-analysis",
+      "title": "AI ATS Score Resume Analysis",
+      "description": "Jupyter notebook project for analyzing resumes through an ATS-oriented scoring and review workflow.",
+      "tech": ["Python", "Jupyter"],
+      "status": null
+    },
+    {
+      "repo": "students-data-analysis",
+      "title": "Student Data Analysis",
+      "description": "Python analysis of student marks with averages, scatter plots, correlation checks, and a seaborn heatmap.",
+      "tech": ["Python", "Pandas", "Matplotlib"],
+      "status": null
+    },
+    {
+      "repo": "The-daily-Tasks",
+      "title": "The Daily Tasks",
+      "description": "Flask task manager with SQLite storage for creating, updating, completing, and deleting daily tasks.",
+      "tech": ["Python", "Flask", "HTML"],
+      "status": null
+    },
+    {
+      "repo": "password-generator",
+      "title": "Password Generator",
+      "description": "Python notebook that generates random passwords with a customizable length and mixed character sets.",
+      "tech": ["Python", "Jupyter"],
+      "status": null
+    },
+    {
+      "repo": "Social-Media-Landing-Page",
+      "title": "Social Media Landing Page",
+      "description": "Responsive landing page for a fictional social media product, designed with HTML5 and modern CSS.",
+      "tech": ["HTML", "CSS"],
+      "status": null
+    }
+  ],
+  "additional": [
+    {
+      "repo": "admin-portal-dummy",
+      "title": "Admin Portal Demo",
+      "description": "Next.js admin dashboard demo used alongside Cue AI, including charts and a shareable local preview setup.",
+      "tech": ["TypeScript", "Next.js", "React"]
+    }
+  ]
+}

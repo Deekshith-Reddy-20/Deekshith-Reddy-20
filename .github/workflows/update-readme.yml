@@ -1,0 +1,53 @@
+# Updates only PROJECTS, STATS, and LANGUAGES marker blocks.
+# Uses the default GITHUB_TOKEN. No extra secrets are required.
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile-readme
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    name: Refresh generated sections
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update generated README blocks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+
+      - name: Validate profile README
+        run: python scripts/validate_readme.py
+
+      - name: Commit generated sections only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/projects
+          if git diff --staged --quiet; then
+            echo "No generated-section changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh generated profile sections"
+          git push
