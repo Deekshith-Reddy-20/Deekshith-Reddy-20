@@ -215,19 +215,19 @@ Live stats from public activity. Numbers are not hardcoded.
 
 <!-- STATS:START -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deekshith-Reddy-20&show_icons=true&hide_border=true&bg_color=07111F&title_color=06B6D4&icon_color=2563EB&text_color=F8FAFC&ring_color=7C3AED&hide=issues&cache_seconds=1800&v=2026090818" alt="GitHub statistics for Deekshith-Reddy-20" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deekshith-Reddy-20&show_icons=true&hide_border=true&bg_color=07111F&title_color=06B6D4&icon_color=2563EB&text_color=F8FAFC&ring_color=7C3AED&hide=issues&cache_seconds=1800&v=2026091412" alt="GitHub statistics for Deekshith-Reddy-20" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Deekshith-Reddy-20&hide_border=true&background=07111F&ring=2563EB&fire=06B6D4&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=94A3B8&stroke=1E293B&v=2026090818" alt="GitHub streak for Deekshith-Reddy-20" />
+  <img src="https://streak-stats.demolab.com?user=Deekshith-Reddy-20&hide_border=true&background=07111F&ring=2563EB&fire=06B6D4&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=06B6D4&sideLabels=94A3B8&dates=94A3B8&stroke=1E293B&v=2026091412" alt="GitHub streak for Deekshith-Reddy-20" />
 </p>
 <!-- STATS:END -->
 
 <!-- LANGUAGES:START -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith-Reddy-20&layout=compact&hide_border=true&bg_color=07111F&title_color=06B6D4&text_color=F8FAFC&langs_count=6&v=2026090818" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshith-Reddy-20&layout=compact&hide_border=true&bg_color=07111F&title_color=06B6D4&text_color=F8FAFC&langs_count=6&v=2026091412" alt="Most used languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deekshith-Reddy-20&bg_color=07111F&color=94A3B8&line=2563EB&point=06B6D4&area=true&hide_border=true&area_color=2563EB&custom_title=Contribution%20activity&v=2026090818" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deekshith-Reddy-20&bg_color=07111F&color=94A3B8&line=2563EB&point=06B6D4&area=true&hide_border=true&area_color=2563EB&custom_title=Contribution%20activity&v=2026091412" alt="Contribution activity graph" />
 </p>
 <!-- LANGUAGES:END -->
 
